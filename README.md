@@ -80,7 +80,7 @@ printing stars<br>
 ![image](https://user-images.githubusercontent.com/79328858/167005499-c59e137d-442d-482d-8f07-17aeca7eea9b.png)
 ![image](https://user-images.githubusercontent.com/79328858/167005535-65c5e346-d241-4b1f-a027-0759a9cab86c.png)
 
-Using recursive function is little bit hard to me
+Using recursive function is little bit hard to me<br>
 I would like to solve Fibonacci problem next time to exercise programming recursive function
 
 -----
